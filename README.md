@@ -1,6 +1,6 @@
 # Fancy Counter Project
 
-<Img Link>
+<img width="1917" alt="Screenshot 2025-03-06 at 6 47 14 AM" src="https://github.com/user-attachments/assets/0aad11ed-bb3c-42dd-93a8-e37ea32773bd" />
 
 ## Motivation
 
@@ -12,7 +12,9 @@ The web application is a simple counter that can be used for a variety of differ
 
 ## Video
 
-Check out a video demo here! <Video Link>
+Check out a video demo here! https://youtu.be/x1BPelip_II
+
+https://github.com/user-attachments/assets/f165bb65-b912-4de9-a502-3d3bcbeade43
 
 ## Tech Stack
 
