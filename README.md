@@ -12,8 +12,6 @@ The web application is a simple counter that can be used for a variety of differ
 
 ## Video
 
-Check out a video demo here! https://youtu.be/x1BPelip_II
-
 https://github.com/user-attachments/assets/f165bb65-b912-4de9-a502-3d3bcbeade43
 
 ## Tech Stack
